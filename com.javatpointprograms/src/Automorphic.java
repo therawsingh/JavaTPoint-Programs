@@ -14,6 +14,8 @@ public class Automorphic {
 
     }
 
+    //test
+
     public static void main(String[] args) {
 
         Automorphic obj = new Automorphic();
